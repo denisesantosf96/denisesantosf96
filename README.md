@@ -1,6 +1,5 @@
 👋 Olá, eu sou a Denise!
 
-<--
 💻 Desenvolvedora Web focada em .NET  
 🚀 Experiência com ASP.NET Core, APIs e banco de dados  
 📍 São Paulo - SP  
@@ -53,4 +52,3 @@ Consumo de API externa para buscar cotação de moedas
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/denisesantosf/
--->
