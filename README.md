@@ -1,16 +1,56 @@
-## Hi there 👋
+👋 Olá, eu sou a Denise!
 
-<!--
-**denisesantosf96/denisesantosf96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--
+💻 Desenvolvedora Web focada em .NET  
+🚀 Experiência com ASP.NET Core, APIs e banco de dados  
+📍 São Paulo - SP  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ Tecnologias
+- C#
+- ASP.NET Core
+- SQL Server / PostgreSQL
+- Entity Framework Core
+- HTML, CSS, JavaScript, Bootstrap
+- Git e GitHub
+
+---
+
+## 📌 Projetos em destaque
+
+### 🏥 Sistema de Clínica
+Sistema completo para cadastro e gestão de pacientes, médicos e consultas  
+✔️ CRUD completo  
+✔️ Validações  
+✔️ Integração com banco de dados  
+
+---
+
+### 🚗 Sistema de Estacionamento
+Aplicação para controle de entrada e saída de veículos  
+✔️ Registro de veículos  
+✔️ Controle de tempo de permanência  
+✔️ Cálculo de valores  
+
+---
+
+### 🍽️ Sistema de Restaurante
+Sistema para gerenciamento de pedidos e controle de clientes  
+✔️ Cadastro de pedidos  
+✔️ Controle de atendimento  
+✔️ Organização de dados  
+
+---
+
+### 💱 API de Cotação
+Consumo de API externa para buscar cotação de moedas  
+✔️ Integração com API  
+✔️ Tratamento de dados  
+✔️ Arquitetura organizada  
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/denisesantosf/
 -->
