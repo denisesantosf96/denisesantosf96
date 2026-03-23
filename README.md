@@ -1,4 +1,4 @@
-👋 Olá, eu sou a Denise!
+Olá, eu sou a Denise!
 
 💻 Desenvolvedora Web focada em .NET  
 🚀 Experiência com ASP.NET Core, APIs e banco de dados  
