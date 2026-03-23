@@ -26,6 +26,14 @@ Sistema completo para cadastro e gestão de pacientes, médicos e consultas
 
 ---
 
+### 🎓 Sistema Escolar
+Sistema para gerenciamento de alunos e controle escolar  
+✔️ Cadastro de alunos  
+✔️ Organização de dados acadêmicos  
+✔️ Estrutura de controle  
+
+---
+
 ### 🚗 Sistema de Estacionamento
 Aplicação para controle de entrada e saída de veículos  
 ✔️ Registro de veículos  
