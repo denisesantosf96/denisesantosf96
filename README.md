@@ -1,12 +1,12 @@
 Olá, eu sou a Denise!
 
-💻 Desenvolvedora Web focada em .NET  
-🚀 Experiência com ASP.NET Core, APIs e banco de dados  
-📍 São Paulo - SP  
+Desenvolvedora Web focada em .NET  
+Experiência com ASP.NET Core, APIs e banco de dados  
+São Paulo - SP  
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 - C#
 - ASP.NET Core
 - SQL Server / PostgreSQL
@@ -16,9 +16,9 @@ Olá, eu sou a Denise!
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
-### 🏥 Sistema de Clínica
+### Sistema de Clínica
 Sistema completo para cadastro e gestão de pacientes, médicos e consultas  
 ✔️ CRUD completo  
 ✔️ Validações  
@@ -26,7 +26,7 @@ Sistema completo para cadastro e gestão de pacientes, médicos e consultas
 
 ---
 
-### 🎓 Sistema Escolar
+### Sistema Escolar
 Sistema para gerenciamento de alunos e controle escolar  
 ✔️ Cadastro de alunos  
 ✔️ Organização de dados acadêmicos  
@@ -34,7 +34,7 @@ Sistema para gerenciamento de alunos e controle escolar
 
 ---
 
-### 🚗 Sistema de Estacionamento
+### Sistema de Estacionamento
 Aplicação para controle de entrada e saída de veículos  
 ✔️ Registro de veículos  
 ✔️ Controle de tempo de permanência  
@@ -42,7 +42,7 @@ Aplicação para controle de entrada e saída de veículos
 
 ---
 
-### 🍽️ Sistema de Restaurante
+### Sistema de Restaurante
 Sistema para gerenciamento de pedidos e controle de clientes  
 ✔️ Cadastro de pedidos  
 ✔️ Controle de atendimento  
@@ -50,7 +50,7 @@ Sistema para gerenciamento de pedidos e controle de clientes
 
 ---
 
-### 💱 API de Cotação
+### API de Cotação
 Consumo de API externa para buscar cotação de moedas  
 ✔️ Integração com API  
 ✔️ Tratamento de dados  
@@ -58,5 +58,5 @@ Consumo de API externa para buscar cotação de moedas
 
 ---
 
-## 📫 Contato
+## Contato
 - LinkedIn: https://www.linkedin.com/in/denisesantosf/
