@@ -18,10 +18,10 @@ São Paulo - SP
 
 ## Projetos em destaque
 
-### Sistema de Clínica
-Sistema completo para cadastro e gestão de pacientes, médicos e consultas  
+### Sistema de Gestão de Clínica (Full Stack)
+O sistema foi desenvolvido com Angular no front-end e ASP.NET Core Web API no back-end, com banco de dados SQL Server.  
 ✔️ CRUD completo  
-✔️ Validações  
+✔️ Integração entre Angular e API  
 ✔️ Integração com banco de dados  
 
 ---
