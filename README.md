@@ -11,7 +11,7 @@ São Paulo - SP
 - ASP.NET Core
 - SQL Server / PostgreSQL
 - Entity Framework Core
-- HTML, CSS, JavaScript, Bootstrap
+- HTML, CSS, JavaScript, Bootstrap, Angular
 - Git e GitHub
 
 ---
